@@ -1,16 +1,40 @@
-# React + Vite
+🚀 Meu Portfólio
+Este é o repositório do meu portfólio pessoal. Um projeto desenvolvido para centralizar meus principais trabalhos, habilidades e facilitar o contato direto comigo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tecnologias Utilizadas
+Para este projeto, foquei em uma stack moderna visando performance, animações fluidas e estilização eficiente:
 
-Currently, two official plugins are available:
+React 19: Biblioteca principal para a construção da interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite 6: Build tool ultra-rápida para o desenvolvimento.
 
-## React Compiler
+Tailwind CSS 4: Estilização baseada em utilitários para um design responsivo e moderno.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Framer Motion: Biblioteca utilizada para as animações de entrada e interações.
 
-## Expanding the ESLint configuration
+Lucide React: Pacote de ícones leves e bonitos.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+EmailJS: Integração para envio de e-mails diretamente pelo formulário de contato, sem necessidade de um backend dedicado.
+
+✨ Funcionalidades
+Design Responsivo: Adaptado para dispositivos móveis, tablets e desktops.
+
+Animações Fluidas: Transições suaves ao rolar a página e interagir com elementos.
+
+Formulário de Contato: Totalmente funcional utilizando EmailJS.
+
+Otimização de Performance: Build otimizada com Vite para carregamento instantâneo.
+
+📦 Estrutura de Arquivos Principal
+src/: Contém todo o código fonte da aplicação.
+
+public/: Assets públicos como imagens e ícones.
+
+tailwind.config.js: Configurações de design do sistema (Tailwind).
+
+eslint.config.js: Regras de padronização de código.
+
+📝 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Desenvolvido com ☕ e muito código por Thyago Souza.
