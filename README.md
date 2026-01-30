@@ -28,26 +28,7 @@ Otimização de Performance: Build otimizada com Vite para carregamento instant�
 🚀 Como Executar o Projeto
 Se quiser rodar este projeto localmente, siga os passos abaixo:
 
-Clone o repositório:
 
-Bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Entre na pasta do projeto:
-
-Bash
-cd seu-repositorio
-Instale as dependências:
-
-Bash
-npm install
-Inicie o servidor de desenvolvimento:
-
-Bash
-npm run dev
-Acesse http://localhost:5173 no seu navegador.
-
-📦 Estrutura de Arquivos Principal
-src/: Contém todo o código fonte da aplicação.
 
 public/: Assets públicos como imagens e ícones.
 
